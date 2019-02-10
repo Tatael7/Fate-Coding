@@ -1,0 +1,15 @@
+body {
+    background-image: url("../images/aestus.jpg");
+}
+
+.servant {
+    background: turquoise;
+    height: auto;
+    width: 80%;
+    border: inset red 5px;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+}
